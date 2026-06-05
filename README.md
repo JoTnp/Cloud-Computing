@@ -85,6 +85,7 @@ a:hover{
 &nbsp; 1. Infrastructure as a Service (IaaS) Ex. Amazon EC2 , Google Compute Engine<br>
 &nbsp; 2. Platform as a Service (PaaS) Ex. Google App Engine , Heroku<br>
 &nbsp; 3. Software as a Service (SaaS) Ex. Gmail , Google Docs<br>
+  </li>
 
   <li>รูปแบบการติดตั้ง Cloud <br>
 Public Cloud : ให้บริการแก่บุคคลทั่วไปผ่านอินเทอร์เน็ต<br>
@@ -95,7 +96,8 @@ Hybrid Cloud : ผสมผสานระหว่าง Public Cloud และ
 &nbsp; • เข้าถึงข้อมูลได้จากทุกที่<br>
 ตัวอย่างการใช้งาน Cloud Computing ในชีวิตประจำวัน<br>
 &nbsp; • การเก็บไฟล์บน Google Drive<br>
-&nbsp; • การรับส่งอีเมลผ่าน Gmail<br></li>
+&nbsp; • การรับส่งอีเมลผ่าน Gmail<br>
+  </li>
 
   <li>"Cloud Computing คือการให้บริการทรัพยากรคอมพิวเตอร์ผ่านอินเทอร์เน็ต โดยผู้ใช้งานสามารถเข้าถึงเซิร์ฟเวอร์ พื้นที่จัดเก็บข้อมูล และซอฟต์แวร์ต่าง ๆ ได้ตามต้องการ ช่วยลดภาระในการจัดการฮาร์ดแวร์และเพิ่มความยืดหยุ่นในการใช้งานระบบ", <strong>(ChatGPT)</strong></li>
   
