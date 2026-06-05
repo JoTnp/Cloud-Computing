@@ -108,6 +108,6 @@ Hybrid Cloud : ผสมผสานระหว่าง Public Cloud และ
 
 <h3> References </h3>
 <ul>
-  <li><a href="https://aws.amazon.com/th/">Cisco - What is Cloud Computing?</a></li>
+  <li><a href="https://aws.amazon.com/th/">AWS - What is Cloud Computing?</a></li>
   <li><a href="https://www.ibm.com/us-en">IBM - What is Cloud Computing?</a></li>
 </ul>
