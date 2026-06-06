@@ -68,9 +68,9 @@ a:hover{
 
 <h3> Definition </h3>
 <ul>
-  <li><strong>English (Source 1 - IBM) :</strong> "Cloud computing is the on-demand access of computing resources—physical servers or virtual servers, data storage, networking capabilities, application development tools, software, AI-powered analytic tools and more—over the internet with pay-per-use pricing."</li>
+  <li><strong>English (Source 1 - IBM) :</strong> "Cloud computing is on-demand access to computing resources—physical or virtual servers, data storage, networking capabilities, application development tools, software, AI-powered analytic platforms and more—over the internet with pay-per-use pricing."</li>
   
-  <li><strong>English (Source 2 - Cisco) :</strong> "Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing."</li>
+  <li><strong>English (Source 2 - Cisco) :</strong> "Cloud computing offers companies convenient models to access infrastructure, platform, and software offerings on a pay-as-you-go basis."</li>
   
   <li><strong>Thai :</strong> Cloud Computing คือ รูปแบบการให้บริการทรัพยากรด้านคอมพิวเตอร์ผ่านอินเทอร์เน็ต ไม่ว่าจะเป็นเซิร์ฟเวอร์ พื้นที่จัดเก็บข้อมูล ฐานข้อมูล ระบบเครือข่าย หรือซอฟต์แวร์ โดยผู้ใช้งานสามารถเข้าถึงและใช้งานได้ตามความต้องการ โดยไม่จำเป็นต้องลงทุนซื้อและดูแลอุปกรณ์ทั้งหมดด้วยตนเอง</li>
 </ul>
@@ -108,6 +108,6 @@ Hybrid Cloud : ผสมผสานระหว่าง Public Cloud และ
 
 <h3> References </h3>
 <ul>
-  <li><a href="https://aws.amazon.com/th/">AWS - What is Cloud Computing?</a></li>
+  <li><a href="https://aws.amazon.com/th/">Cisco - What is Cloud Computing?</a></li>
   <li><a href="https://www.ibm.com/us-en">IBM - What is Cloud Computing?</a></li>
 </ul>
