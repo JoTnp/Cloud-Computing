@@ -64,50 +64,48 @@ a:hover{
 }
 </style>
 
-<meta property="twitter:title" content="Cloud Computing">
+<meta property="twitter:title" content="Function">
 
 <h3> Definition </h3>
 <ul>
-  <li><strong>English (Source 1 - IBM) :</strong> "Cloud computing is on-demand access to computing resources—physical or virtual servers, data storage, networking capabilities, application development tools, software, AI-powered analytic platforms and more—over the internet with pay-per-use pricing."</li>
+  <li><strong>English (Source 1 - TechTarget) :</strong> "A function is a unit of code that is often defined by its role within a greater code structure. Specifically, a function contains a set of code that works on many kinds of inputs, like variables, expressions and produces a concrete result."</li>
   
-  <li><strong>English (Source 2 - Cisco) :</strong> "Cloud computing offers companies convenient models to access infrastructure, platform, and software offerings on a pay-as-you-go basis."</li>
+  <li><strong>English (Source 2 - IBM) :</strong> "A function is a reusable block of code that performs a specific task. Functions help organize programs into manageable and modular sections."</li>
   
-  <li><strong>Thai :</strong> Cloud Computing คือ รูปแบบการให้บริการทรัพยากรด้านคอมพิวเตอร์ผ่านอินเทอร์เน็ต ไม่ว่าจะเป็นเซิร์ฟเวอร์ พื้นที่จัดเก็บข้อมูล ฐานข้อมูล ระบบเครือข่าย หรือซอฟต์แวร์ โดยผู้ใช้งานสามารถเข้าถึงและใช้งานได้ตามความต้องการ โดยไม่จำเป็นต้องลงทุนซื้อและดูแลอุปกรณ์ทั้งหมดด้วยตนเอง</li>
+  <li><strong>Thai :</strong> Function คือ ชุดคำสั่งหรือกลุ่มของโค้ดที่ถูกสร้างขึ้นเพื่อทำงานเฉพาะอย่างใดอย่างหนึ่ง โดยสามารถเรียกใช้งานซ้ำได้หลายครั้ง ช่วยลดการเขียนโค้ดซ้ำ ทำให้โปรแกรมมีความเป็นระเบียบ อ่านง่าย และดูแลรักษาได้สะดวกมากขึ้น</li>
 </ul>
 
 ---
 
 <h3> Explanation </h3>
 <ul>
-  <li>Cloud Computing เป็นเทคโนโลยีที่เปลี่ยนรูปแบบการใช้งานคอมพิวเตอร์จากการติดตั้งและดูแลระบบภายในองค์กร มาเป็นการเช่าใช้ทรัพยากรผ่านผู้ให้บริการบนอินเทอร์เน็ต ผู้ใช้งานสามารถเข้าถึงข้อมูลและแอปพลิเคชันได้จากทุกที่ที่มีการเชื่อมต่ออินเทอร์เน็ต ทำให้ลดต้นทุนด้านฮาร์ดแวร์และการบำรุงรักษาระบบ</li>
+  <li>Function เป็นแนวคิดพื้นฐานที่สำคัญในการเขียนโปรแกรม โดยทำหน้าที่รวบรวมชุดคำสั่งที่เกี่ยวข้องกับงานหนึ่ง ๆ ไว้ในส่วนเดียวกัน เมื่อโปรแกรมต้องการใช้งาน ก็สามารถเรียกใช้ Function นั้นได้ทันทีโดยไม่จำเป็นต้องเขียนโค้ดเดิมซ้ำหลายครั้ง</li>
+
+  <li>ตัวอย่างเช่น หากโปรแกรมต้องคำนวณภาษีหรือคำนวณคะแนนรวมหลายครั้ง นักพัฒนาสามารถสร้าง Function สำหรับการคำนวณนั้นเพียงครั้งเดียว และเรียกใช้ซ้ำได้ทุกที่ภายในโปรแกรม</li>
     
-  <li>องค์ประกอบสำคัญของระบบ IoT ประกอบด้วย <br>
-&nbsp; 1. Infrastructure as a Service (IaaS) Ex. Amazon EC2 , Google Compute Engine<br>
-&nbsp; 2. Platform as a Service (PaaS) Ex. Google App Engine , Heroku<br>
-&nbsp; 3. Software as a Service (SaaS) Ex. Gmail , Google Docs<br>
+  <li>องค์ประกอบของ Function <br>
+&nbsp; 1. Function Name : ชื่อของฟังก์ชันที่ใช้สำหรับเรียกใช้งาน<br>
+&nbsp; 2. Parameters : ข้อมูลที่ส่งเข้าไปให้ Function ใช้ในการประมวลผล<br>
+&nbsp; 3. Return Value : ผลลัพธ์ที่ Function ส่งกลับ<br>
   </li>
 
-  <li>รูปแบบการติดตั้ง Cloud <br>
-Public Cloud : ให้บริการแก่บุคคลทั่วไปผ่านอินเทอร์เน็ต<br>
-Private Cloud : ระบบ Cloud ที่องค์กรเป็นเจ้าของและใช้งานภายในองค์กร<br>
-Hybrid Cloud : ผสมผสานระหว่าง Public Cloud และ Private Cloud<br>
-ข้อดีของ Cloud Computing<br>
-&nbsp; • ลดต้นทุนการลงทุนด้านฮาร์ดแวร์<br>
-&nbsp; • เข้าถึงข้อมูลได้จากทุกที่<br>
-ตัวอย่างการใช้งาน Cloud Computing ในชีวิตประจำวัน<br>
-&nbsp; • การเก็บไฟล์บน Google Drive<br>
-&nbsp; • การรับส่งอีเมลผ่าน Gmail<br>
+  <li>ข้อดีของ Function <br>
+&nbsp; • ลดการเขียนโค้ดซ้ำ (Code Reusability)<br>
+&nbsp; • ทำให้โปรแกรมเป็นระเบียบมากขึ้น<br>
+&nbsp; • ง่ายต่อการแก้ไขและบำรุงรักษา<br>
+&nbsp; • ช่วยแบ่งงานออกเป็นส่วนย่อย ๆ<br>
+&nbsp; • เพิ่มความเข้าใจในการอ่านโค้ด<br>
   </li>
 
-  <li>"Cloud Computing คือการให้บริการทรัพยากรคอมพิวเตอร์ผ่านอินเทอร์เน็ต โดยผู้ใช้งานสามารถเข้าถึงเซิร์ฟเวอร์ พื้นที่จัดเก็บข้อมูล และซอฟต์แวร์ต่าง ๆ ได้ตามต้องการ ช่วยลดภาระในการจัดการฮาร์ดแวร์และเพิ่มความยืดหยุ่นในการใช้งานระบบ", <strong>(ChatGPT)</strong></li>
+  <li>"Function คือชุดคำสั่งที่ถูกรวมไว้เพื่อทำงานเฉพาะด้านหนึ่งของโปรแกรม สามารถรับข้อมูลเข้ามาประมวลผลและส่งผลลัพธ์กลับได้ ช่วยลดความซ้ำซ้อนของโค้ดและเพิ่มความเป็นระเบียบในการพัฒนาโปรแกรม" <strong>(ChatGPT)</strong></li>
   
-  <li>"Cloud Computing เป็นรูปแบบการใช้ทรัพยากรด้านไอทีผ่านเครือข่ายอินเทอร์เน็ต โดยผู้ใช้งานสามารถเช่าใช้บริการด้านคอมพิวเตอร์ตามปริมาณการใช้งานจริง ช่วยเพิ่มประสิทธิภาพ ลดต้นทุน และรองรับการขยายตัวขององค์กรได้อย่างรวดเร็ว", <strong>(Copilot)</strong></li>
+  <li>"Function เป็นองค์ประกอบสำคัญของการเขียนโปรแกรมที่ช่วยแบ่งโปรแกรมออกเป็นส่วนย่อย ๆ แต่ละส่วนรับผิดชอบงานเฉพาะด้าน ทำให้โค้ดสามารถนำกลับมาใช้ซ้ำได้และช่วยให้การพัฒนาโปรแกรมมีประสิทธิภาพมากขึ้น"<strong>(Copilot)</strong></li>
 </ul>
 
 ---
 
 <h3> References </h3>
 <ul>
-  <li><a href="https://aws.amazon.com/th/">AWS - What is Cloud Computing?</a></li>
-  <li><a href="https://www.ibm.com/us-en">IBM - What is Cloud Computing?</a></li>
+  <li><a href="https://www.techtarget.com/">TechTarget - Function Definition</a></li>
+  <li><a href="https://www.ibm.com/us-en">IBM - Programming Functions Overview</a></li>
 </ul>
